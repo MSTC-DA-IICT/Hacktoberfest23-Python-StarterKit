@@ -40,6 +40,7 @@ Tools:
 
 ### :desktop_computer: Some resources you can learn from
   * [PYTHON](https://docs.python.org/3/)
+  * [Pygame](https://www.pygame.org/docs/)
   * [TO ADD NEW LIBRARIES TO THE SYSTEM](https://pip.pypa.io/en/stable/getting-started/)
   
 Happy Developing! :innocent:

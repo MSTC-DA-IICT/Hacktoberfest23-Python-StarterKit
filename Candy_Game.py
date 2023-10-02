@@ -1,3 +1,17 @@
+'''
+Description:
+Candy Drop is an exciting and addictive game where your goal is to catch falling candies using a moving box. The game offers a challenging and entertaining experience with simple yet engaging gameplay.
+'''
+
+''' 
+Gameplay:
+-Control the box's horizontal movement using the left and right arrow keys to catch the falling candies.
+-Each time you successfully catch a candy, your score increases.
+-Be quick and precise, as missing a candy will cost you a lifeline.
+-The game provides a some lifelines to challenge your candy-catching skills.
+-If Lifeline would be 0 then Game over 
+'''
+
 import pygame
 import random
 import sys
